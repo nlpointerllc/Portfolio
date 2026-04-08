@@ -195,12 +195,5 @@ Personal site with live demos and interactive tools — deployed and publicly ac
 
 ---
 
-## Certifications
-
-- Microsoft Certified: Cybersecurity Architect Expert (SC-100)
-- AWS & Azure cloud practitioner experience across production workloads
-
----
-
 *References, architecture diagrams, and deeper technical walkthroughs available upon request.*
 *Contact: veneret@gmail.com*
